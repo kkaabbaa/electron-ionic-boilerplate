@@ -1,0 +1,14 @@
+{
+  "name": "electron-ionic-boilerplate",
+  "version": "1.0.0",
+  "description": "A minimal Electron application with ionic",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alex Zayats",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
